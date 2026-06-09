@@ -1,4 +1,4 @@
-# 📚 Document Ingestion + RAG Backend
+# 📚 Conversational Document Intelligence Backend
 
 *A modular backend that ingests documents, stores embeddings, answers questions using a custom RAG pipeline, supports multi-turn chat memory, and performs LLM-powered interview booking.*
 
